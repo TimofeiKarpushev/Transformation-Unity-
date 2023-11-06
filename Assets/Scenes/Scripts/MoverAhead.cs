@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-public class MoveAhead : MonoBehaviour
+public class MoverAhead : MonoBehaviour
 {
     [SerializeField] private Transform _endPoint;
     [SerializeField] private float _speed;
